@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="[[https://ibb.co/QKv3DPM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fbackground&psig=AOvVaw2VEOooXMdEmC1hKROD07WW&ust=1731050514267000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNimkerXyYkDFQAAAAAdAAAAABAJ)](https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small_2x/modern-gold-background-free-vector.jpg)" alt="Background" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsou-9Yj0s2NTQ1pGx4zvMQj12BW1NUvgLA&s" alt="Background" width="100%">
 </div>
 
 # Hello,
