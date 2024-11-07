@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://ibb.co/QKv3DPM" alt="Background" width="100%">
+  <img src="[https://ibb.co/QKv3DPM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fbackground&psig=AOvVaw2VEOooXMdEmC1hKROD07WW&ust=1731050514267000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNimkerXyYkDFQAAAAAdAAAAABAJ)" alt="Background" width="100%">
 </div>
 
 # Hello, I'm [Your Name]
