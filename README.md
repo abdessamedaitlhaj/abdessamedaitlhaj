@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsou-9Yj0s2NTQ1pGx4zvMQj12BW1NUvgLA&s" alt="Background" width="100%">
-</div>
+<h1 align="center">Hi 👋 I'm Abedo</h1>
 
-# Hello,
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=42+Student;Software+Engineering;C+%7C+C%2B%2B+%7C+Linux&center=true&width=500">
+</p>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
 
-hhh :)
